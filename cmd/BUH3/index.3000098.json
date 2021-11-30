@@ -1,0 +1,260 @@
+{
+  "Catalog": {
+    "saby_КатегорииКонтрагентов": {
+      "Catalog.json": "",
+      "CatalogCommand": {
+        "ОткрытьКатегорииКонтрагентов.json": "",
+        "ОткрытьКатегорииКонтрагентов.obj.1c": "..\\base\\Catalog\\saby_КатегорииКонтрагентов\\CatalogCommand\\ОткрытьКатегорииКонтрагентов.obj.1c"
+      }
+    },
+    "Контрагенты": {
+      "Catalog.json": "",
+      "CatalogForm": {
+        "ФормаСписка.form803.json": "",
+        "ФормаСписка.json": "",
+        "ФормаСписка.obj.1c": "..\\base\\Catalog\\Контрагенты\\CatalogForm\\ФормаСписка.obj.1c",
+        "ФормаЭлемента.form803.json": "",
+        "ФормаЭлемента.json": "",
+        "ФормаЭлемента.obj.1c": "..\\base\\Catalog\\Контрагенты\\CatalogForm\\ФормаЭлемента.obj.1c"
+      }
+    }
+  },
+  "CommandGroup": {
+    "saby_СБИС.json": ""
+  },
+  "CommonCommand": {
+    "saby_НадежностьВходящегоНДС.json": "",
+    "saby_НадежностьВходящегоНДС.obj.1c": "..\\base\\CommonCommand\\saby_НадежностьВходящегоНДС.obj.1c",
+    "saby_НадежностьДебиторов.json": "",
+    "saby_НадежностьДебиторов.obj.1c": "..\\base\\CommonCommand\\saby_НадежностьДебиторов.obj.1c",
+    "saby_ОткрытьКарточкуКомпанииСБИС.json": "",
+    "saby_ОткрытьКарточкуКомпанииСБИС.obj.1c": "",
+    "saby_ОткрытьОбработкуСБИС.json": "",
+    "saby_ОткрытьОбработкуСБИС.obj.1c": "..\\base\\CommonCommand\\saby_ОткрытьОбработкуСБИС.obj.1c"
+  },
+  "CommonForms": {
+    "saby_ВебСтраницаСБИС.form803.json": "",
+    "saby_ВебСтраницаСБИС.json": "",
+    "saby_ВебСтраницаСБИС.obj.1c": ""
+  },
+  "CommonModules": {
+    "saby_ВызовСервера.json": "",
+    "saby_ВызовСервера.obj.1c": "",
+    "saby_ВызовСервераПереопределяемый.json": "",
+    "saby_ВызовСервераПереопределяемый.obj.1c": "",
+    "saby_Клиент.json": "",
+    "saby_Клиент.obj.1c": "..\\base\\CommonModules\\saby_Клиент.obj.1c",
+    "saby_КлиентСерверПереопределяемый.json": "",
+    "saby_КлиентСерверПереопределяемый.obj.1c": "..\\base\\CommonModules\\saby_КлиентСерверПереопределяемый.obj.1c",
+    "РаботаСКонтрагентами.json": "",
+    "РаботаСКонтрагентами.obj.1c": "..\\base\\CommonModules\\РаботаСКонтрагентами.obj.1c"
+  },
+  "CommonPicture": {
+    "saby_Saby.json": "",
+    "saby_Saby.png": "..\\base\\CommonPicture\\saby_Saby.png",
+    "saby_SabyBird.json": "",
+    "saby_SabyBird.png": "..\\base\\CommonPicture\\saby_SabyBird.png",
+    "saby_Градусник00.json": "",
+    "saby_Градусник00.png": "..\\base\\CommonPicture\\saby_Градусник00.png",
+    "saby_Градусник01.json": "",
+    "saby_Градусник01.png": "..\\base\\CommonPicture\\saby_Градусник01.png",
+    "saby_Градусник02.json": "",
+    "saby_Градусник02.png": "..\\base\\CommonPicture\\saby_Градусник02.png",
+    "saby_Градусник03.json": "",
+    "saby_Градусник03.png": "..\\base\\CommonPicture\\saby_Градусник03.png",
+    "saby_Градусник04.json": "",
+    "saby_Градусник04.png": "..\\base\\CommonPicture\\saby_Градусник04.png",
+    "saby_Градусник05.json": "",
+    "saby_Градусник05.png": "..\\base\\CommonPicture\\saby_Градусник05.png",
+    "saby_Градусник06.json": "",
+    "saby_Градусник06.png": "..\\base\\CommonPicture\\saby_Градусник06.png",
+    "saby_Градусник10.json": "",
+    "saby_Градусник10.png": "..\\base\\CommonPicture\\saby_Градусник10.png",
+    "saby_Градусник11.json": "",
+    "saby_Градусник11.png": "..\\base\\CommonPicture\\saby_Градусник11.png",
+    "saby_Градусник12.json": "",
+    "saby_Градусник12.png": "..\\base\\CommonPicture\\saby_Градусник12.png",
+    "saby_Градусник13.json": "",
+    "saby_Градусник13.png": "..\\base\\CommonPicture\\saby_Градусник13.png",
+    "saby_Градусник14.json": "",
+    "saby_Градусник14.png": "..\\base\\CommonPicture\\saby_Градусник14.png",
+    "saby_Градусник15.json": "",
+    "saby_Градусник15.png": "..\\base\\CommonPicture\\saby_Градусник15.png",
+    "saby_Градусник16.json": "",
+    "saby_Градусник16.png": "..\\base\\CommonPicture\\saby_Градусник16.png",
+    "saby_Градусник20.json": "",
+    "saby_Градусник20.png": "..\\base\\CommonPicture\\saby_Градусник20.png",
+    "saby_Градусник21.json": "",
+    "saby_Градусник21.png": "..\\base\\CommonPicture\\saby_Градусник21.png",
+    "saby_Градусник22.json": "",
+    "saby_Градусник22.png": "..\\base\\CommonPicture\\saby_Градусник22.png",
+    "saby_Градусник23.json": "",
+    "saby_Градусник23.png": "..\\base\\CommonPicture\\saby_Градусник23.png",
+    "saby_Градусник24.json": "",
+    "saby_Градусник24.png": "..\\base\\CommonPicture\\saby_Градусник24.png",
+    "saby_Градусник25.json": "",
+    "saby_Градусник25.png": "..\\base\\CommonPicture\\saby_Градусник25.png",
+    "saby_Градусник26.json": "",
+    "saby_Градусник26.png": "..\\base\\CommonPicture\\saby_Градусник26.png",
+    "saby_Градусник30.json": "",
+    "saby_Градусник30.png": "..\\base\\CommonPicture\\saby_Градусник30.png",
+    "saby_Градусник31.json": "",
+    "saby_Градусник31.png": "..\\base\\CommonPicture\\saby_Градусник31.png",
+    "saby_Градусник32.json": "",
+    "saby_Градусник32.png": "..\\base\\CommonPicture\\saby_Градусник32.png",
+    "saby_Градусник33.json": "",
+    "saby_Градусник33.png": "..\\base\\CommonPicture\\saby_Градусник33.png",
+    "saby_Градусник34.json": "",
+    "saby_Градусник34.png": "..\\base\\CommonPicture\\saby_Градусник34.png",
+    "saby_Градусник35.json": "",
+    "saby_Градусник35.png": "..\\base\\CommonPicture\\saby_Градусник35.png",
+    "saby_Градусник36.json": "",
+    "saby_Градусник36.png": "..\\base\\CommonPicture\\saby_Градусник36.png",
+    "saby_Градусник40.json": "",
+    "saby_Градусник40.png": "..\\base\\CommonPicture\\saby_Градусник40.png",
+    "saby_Градусник41.json": "",
+    "saby_Градусник41.png": "..\\base\\CommonPicture\\saby_Градусник41.png",
+    "saby_Градусник42.json": "",
+    "saby_Градусник42.png": "..\\base\\CommonPicture\\saby_Градусник42.png",
+    "saby_Градусник43.json": "",
+    "saby_Градусник43.png": "..\\base\\CommonPicture\\saby_Градусник43.png",
+    "saby_Градусник44.json": "",
+    "saby_Градусник44.png": "..\\base\\CommonPicture\\saby_Градусник44.png",
+    "saby_Градусник45.json": "",
+    "saby_Градусник45.png": "..\\base\\CommonPicture\\saby_Градусник45.png",
+    "saby_Градусник46.json": "",
+    "saby_Градусник46.png": "..\\base\\CommonPicture\\saby_Градусник46.png",
+    "saby_Градусник50.json": "",
+    "saby_Градусник50.png": "..\\base\\CommonPicture\\saby_Градусник50.png",
+    "saby_Градусник51.json": "",
+    "saby_Градусник51.png": "..\\base\\CommonPicture\\saby_Градусник51.png",
+    "saby_Градусник52.json": "",
+    "saby_Градусник52.png": "..\\base\\CommonPicture\\saby_Градусник52.png",
+    "saby_Градусник53.json": "",
+    "saby_Градусник53.png": "..\\base\\CommonPicture\\saby_Градусник53.png",
+    "saby_Градусник54.json": "",
+    "saby_Градусник54.png": "..\\base\\CommonPicture\\saby_Градусник54.png",
+    "saby_Градусник55.json": "",
+    "saby_Градусник55.png": "..\\base\\CommonPicture\\saby_Градусник55.png",
+    "saby_Градусник56.json": "",
+    "saby_Градусник56.png": "..\\base\\CommonPicture\\saby_Градусник56.png",
+    "saby_Градусник60.json": "",
+    "saby_Градусник60.png": "..\\base\\CommonPicture\\saby_Градусник60.png",
+    "saby_Градусник61.json": "",
+    "saby_Градусник61.png": "..\\base\\CommonPicture\\saby_Градусник61.png",
+    "saby_Градусник62.json": "",
+    "saby_Градусник62.png": "..\\base\\CommonPicture\\saby_Градусник62.png",
+    "saby_Градусник63.json": "",
+    "saby_Градусник63.png": "..\\base\\CommonPicture\\saby_Градусник63.png",
+    "saby_Градусник64.json": "",
+    "saby_Градусник64.png": "..\\base\\CommonPicture\\saby_Градусник64.png",
+    "saby_Градусник65.json": "",
+    "saby_Градусник65.png": "..\\base\\CommonPicture\\saby_Градусник65.png",
+    "saby_Градусник66.json": "",
+    "saby_Градусник66.png": "..\\base\\CommonPicture\\saby_Градусник66.png",
+    "saby_ДлительнаяОперация.bin": "..\\base\\CommonPicture\\saby_ДлительнаяОперация.bin",
+    "saby_ДлительнаяОперация.json": "",
+    "saby_ИндикаторыОтрицательные.json": "",
+    "saby_ИндикаторыОтрицательные.png": "..\\base\\CommonPicture\\saby_ИндикаторыОтрицательные.png",
+    "saby_ИндикаторыПоложительные.json": "",
+    "saby_ИндикаторыПоложительные.png": "..\\base\\CommonPicture\\saby_ИндикаторыПоложительные.png",
+    "КоллекцияНастройкиОтправкиЭДО.json": ""
+  },
+  "CommonTemplate": {
+    "saby_Обработка_РегламентныйОбменСБИС.bin": "..\\base\\CommonTemplate\\saby_Обработка_РегламентныйОбменСБИС.bin",
+    "saby_Обработка_РегламентныйОбменСБИС.json": "",
+    "saby_Обработка_СБИС.bin": "..\\base\\CommonTemplate\\saby_Обработка_СБИС.bin",
+    "saby_Обработка_СБИС.json": ""
+  },
+  "ConfigurationExtension.json": "",
+  "ConfigurationExtension803.app.1c": "..\\base\\ConfigurationExtension803.app.1c",
+  "DataProcessor": {
+    "ПанельАдминистрированияБСП": {
+      "DataProcessor.json": "",
+      "Form": {
+        "ИнтернетПоддержкаИСервисы.form803.json": "",
+        "ИнтернетПоддержкаИСервисы.json": ""
+      }
+    },
+    "ПолеHTML": {
+      "DataProcessor.json": "",
+      "Form": {
+        "Форма.form803.json": "",
+        "Форма.json": "",
+        "Форма.obj.1c": "..\\base\\DataProcessor\\ПолеHTML\\Form\\Форма.obj.1c",
+        "ФормаХТМЛ.form803.json": "",
+        "ФормаХТМЛ.json": "",
+        "ФормаХТМЛ.obj.1c": "..\\base\\DataProcessor\\ПолеHTML\\Form\\ФормаХТМЛ.obj.1c"
+      }
+    }
+  },
+  "Documents": {
+    "ПлатежноеПоручение": {
+      "DocumentForm": {
+        "ФормаДокумента.form803.json": "",
+        "ФормаДокумента.json": ""
+      },
+      "Documents.json": ""
+    }
+  },
+  "InformationRegister": {
+    "saby_КонтрагентыВКатегориях.json": "",
+    "saby_НадежностьКонтрагентов.json": ""
+  },
+  "Language": {
+    "Русский.json": ""
+  },
+  "Report": {
+    "saby_НадежностьВходящегоНДС": {
+      "Report.json": "",
+      "Report.mgr.1c": "",
+      "Report.obj.1c": "..\\base\\Report\\saby_НадежностьВходящегоНДС\\Report.obj.1c",
+      "Template": {
+        "ОсновнаяСхемаКомпоновкиДанных.bin": "",
+        "ОсновнаяСхемаКомпоновкиДанных.json": ""
+      }
+    },
+    "saby_НадежностьКонтрагентов": {
+      "Report.json": "",
+      "Report.mgr.1c": "",
+      "Report.obj.1c": "",
+      "Template": {
+        "ОсновнаяСхемаКомпоновкиДанных.bin": "",
+        "ОсновнаяСхемаКомпоновкиДанных.json": ""
+      }
+    }
+  },
+  "Role": {
+    "saby_ОсновнаяРоль.json": ""
+  },
+  "Subsystem": {
+    "Покупки": {
+      "Subsystem": {
+        "РасчетыСКонтрагентами": {
+          "Subsystem.json": ""
+        },
+        "ЭлектронныеДокументы": {
+          "Subsystem.json": ""
+        }
+      },
+      "Subsystem.json": ""
+    },
+    "Продажи": {
+      "Subsystem": {
+        "РасчетыСКонтрагентами": {
+          "Subsystem.json": ""
+        },
+        "ЭлектронныеДокументы": {
+          "Subsystem.json": ""
+        }
+      },
+      "Subsystem.json": ""
+    }
+  },
+  "StyleItems": {
+    "БыстрыеОтборыФонГруппы.json": "",
+    "НадписьПоясняющаяГиперссылку.json": "",
+    "ПоясняющийТекст.json": "",
+    "ЦветВыделенияКонтрагентаСОшибкой.json": ""
+  }
+}
